@@ -1,1 +1,1 @@
-# spaceinvaders
+Space Invaders was created to showcase my proficiency with Python. The objective is to shoot down the alien ships as they move down and across the screen. If an alien ship is hit, you are awarded 10 points and the ship relocates to the top of the screen. You lose the game if an alien ship makes it to the bottom of the screen and makes contact with your fighter ship.
